@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "AVORA",
+    "slug": "avora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.avora.studentplatform",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.avora.studentplatform"
+    }
+  }
+}
